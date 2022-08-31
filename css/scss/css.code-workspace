@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\wireframe"
+		},
+		{
+			"path": "..\\..\\Yamil"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Yamil"
+	}
+}

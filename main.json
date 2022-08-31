@@ -1,0 +1,45 @@
+[
+    {
+      "precio": 15500,
+      "id": 1,
+      "title": "blusa"
+
+     
+    },
+    {
+      "precio": 10000,
+      "id": 2,
+      "title": "tapado"
+
+
+     
+    },
+    {
+      "precio": 8500,
+      "id": 3,
+      "title": "falda"
+      
+ 
+    },
+    {
+      "precio": 5500,
+      "id": 4,
+      "title": "Remera"
+  
+
+    },
+    {
+      "precio": 14500,
+      "id": 5,
+      "title": "campera"
+ 
+ 
+    },
+    {
+      "precio": 7500,
+      "id": 6,
+      "title": "botas"
+
+
+    }
+  ]

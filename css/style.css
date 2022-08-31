@@ -1,0 +1,318 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Koulen&family=Marck+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Koulen&family=Marck+Script&display=swap");
+.encabezado div nav {
+  background-color: #f7f7f7;
+  padding: 10px 30px;
+  position: sticky;
+  z-index: 2;
+  top: 0;
+  opacity: 0.9;
+}
+.encabezado div nav ul li {
+  display: inline;
+  list-style: none;
+  margin-right: 20px;
+}
+.encabezado div nav ul li a {
+  font-family: "Great Vibes", cursive;
+  font-size: 2.9rem;
+  color: rgba(8, 8, 8, 0.938);
+}
+.encabezado div nav ul li a:hover {
+  color: black;
+  font-weight: 600;
+}
+
+.pie {
+  background-color: #f7f7f7;
+  padding: 30px;
+  font-family: "Great Vibes", cursive;
+}
+.pie .pie__titulo--md {
+  text-align: center;
+}
+.pie .pie__titulo--md h2 {
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+.boton, .boton2 {
+  cursor: pointer;
+  border: 3px solid;
+  border-radius: 25px;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+}
+.boton a, .boton2 a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+#productos .galeria {
+  margin: 20px;
+}
+
+.boton2 {
+  padding: 5px 5px;
+  margin: auto;
+  color: white;
+  text-align: center;
+  font-family: "Great Vibes", cursive;
+}
+
+.pie {
+  background-color: #f7f7f7;
+  padding: 30px;
+  font-family: "Great Vibes", cursive;
+}
+.pie .pie__titulo--md {
+  text-align: center;
+}
+.pie .pie__titulo--md h2 {
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+.boton, .boton2 {
+  cursor: pointer;
+  border: 3px solid;
+  border-radius: 25px;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+}
+.boton a, .boton2 a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 90%;
+}
+
+body {
+  background-image: url("../img/Fondo/Fondo.svg");
+  background-position: center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: "Great Vibes", cursive;
+  font-size: 3rem;
+  text-align: center;
+  padding: 20px 20px;
+  color: rgb(255, 255, 255);
+  margin: 20px 20px;
+  flex-direction: initial;
+  background-color: black;
+}
+
+.tablA1 {
+  background-color: white;
+}
+
+.boton, .boton2 {
+  cursor: pointer;
+  border: 3px solid;
+  border-radius: 25px;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+}
+.boton a, .boton2 a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.boton2 {
+  padding: 5px 5px;
+  margin: auto;
+  color: white;
+  text-align: center;
+  font-family: "Great Vibes", cursive;
+}
+
+.formDeb5 {
+  background-color: black;
+  border-radius: 25px;
+  padding: 32px 28px;
+  margin: 124px 10px;
+  font-family: fantasy;
+  color: white;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+}
+.formDeb5 textarea {
+  font-size: 1.5rem;
+  font: size 1rem;
+}
+.formDeb5 textarea legend {
+  position: relative;
+  font-family: fantasy;
+  color: white;
+}
+
+.summForm {
+  display: grid;
+}
+.summForm button {
+  cursor: pointer;
+  border: 3px solid;
+  border-radius: 25px;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+}
+.summForm button a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.localFig img {
+  object-fit: cover;
+}
+
+h2 {
+  font-size: 3rem;
+  text-align: center;
+  padding: 20px 20px;
+  color: rgb(255, 255, 255);
+  margin: 20px 20px;
+  flex-direction: initial;
+  background-color: black;
+  font-family: "Great Vibes", cursive;
+  z-index: 1;
+  opacity: 0, 5;
+}
+
+iframe {
+  width: 100%;
+}
+
+.figurasCategoria {
+  display: flex;
+  cursor: pointer;
+  border: 3px solid;
+  border-radius: 25px;
+  text-align: center;
+  text-decoration: none;
+  padding: 30px;
+  margin: 50px;
+}
+
+figcaption {
+  color: black;
+  text-transform: uppercase;
+  font-family: fantasy;
+}
+
+.botonSum {
+  cursor: pointer;
+  border: 3px solid;
+  border-radius: 25px;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+}
+.botonSum a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.erroR {
+  font-family: fantasy;
+  background-color: black;
+  color: snow;
+  font-size: 10px;
+  display: grid;
+  justify-items: center;
+}
+
+.boton404 {
+  cursor: pointer;
+  border: 3px solid;
+  border-radius: 25px;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+  padding: 1px 16px;
+  font-size: 1rem;
+}
+.boton404 a {
+  color: white;
+}
+
+.contenedor {
+  display: grid;
+  grid-template-columns: 2fr;
+  grid-template-rows: auto;
+  grid-template-areas: "nav" "header" "productos" "footer";
+}
+
+#nav {
+  grid-area: nav;
+}
+
+#header {
+  grid-area: header;
+}
+
+#productos {
+  grid-area: productos;
+}
+
+#footer {
+  grid-area: footer;
+}
+
+@media (min-width: 768px) {
+  .contenedor {
+    grid-template-columns: 30vw 70vw;
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas: "nav nav" "header header" "productos productos" "footer footer";
+  }
+  #productos .galeria {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  #productos .galeria figure {
+    width: 90%;
+    flex-direction: row;
+  }
+}
+@media (min-width: 1024px) {
+  .contenedor {
+    grid-template-columns: 20vw 70vw 10vw;
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas: "nav nav" "header header" "productos productos" "footer footer ";
+  }
+  #productos .galeria figure {
+    width: 100%;
+  }
+}
+@media (min-width: 1200px) {
+  #productos .galeria {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  #productos .galeria figure {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,20 @@
+{
+  "name": "sitio-web-de-ventas-yamil-leon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-css": "sass --watch css/scss/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamilleon/Blessed-Compra-y-venta-Yamil-Leon-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamilleon/Blessed-Compra-y-venta-Yamil-Leon-/issues"
+  },
+  "homepage": "https://github.com/yamilleon/Blessed-Compra-y-venta-Yamil-Leon-#readme",
+  "description": ""
+}

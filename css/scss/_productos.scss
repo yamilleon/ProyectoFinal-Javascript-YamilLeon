@@ -1,0 +1,15 @@
+@import "footer";
+
+#productos {
+  .galeria {
+    margin: 20px;
+  }
+}
+.boton2 {
+  @extend .boton;
+  padding: 5px 5px;
+  margin: auto;
+  color: white;
+  text-align: center;
+  font-family: $thirdFont;
+}

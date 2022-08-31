@@ -1,0 +1,27 @@
+
+.pie{
+    @include repetidos(30px,$blanco);
+    font-family:$thirdFont;
+        .pie__titulo--md {
+            text-align: center;
+             h2{
+            font-size: 3rem;
+            text-decoration: none;
+         }
+   
+    } 
+}
+
+.boton{
+	cursor: pointer;
+    border: 3px solid;
+    border-radius: 25px;
+    background-color: black;
+	text-align: center;
+	text-decoration: none;
+	a{
+		color: whitesmoke;
+		text-decoration: none;
+		font-size: 1rem;
+	}	
+}

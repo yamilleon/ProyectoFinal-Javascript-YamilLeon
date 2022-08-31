@@ -1,0 +1,10 @@
+@mixin repetidos($padding, $backgroun-color) {
+    background-color: $backgroun-color;
+    padding: $padding;
+}
+$mapaDeColores:(
+    $oscuro: rgba(8, 8, 8, 0.938),
+    $claro: rgb(255, 255, 255),
+    $blanco: #ffffff
+    
+);

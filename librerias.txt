@@ -1,0 +1,2 @@
+agrege toastify en los botones de compra del carrito,de agregado(+)y de restado(-).
+en si para que el usuario en caso de haber presionado por accidente o en caso de olvidarse de tal o cual producto no se le pierda de vista
